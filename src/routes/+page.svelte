@@ -24,7 +24,7 @@
                     <span class="text-gray-800">or </span>
                     <span class="text-rose-600">yね</span>
                     <span class="text-gray-800">. a</span>
-                    <span class="text-rose-600">Software Engineer</span>
+                    <span class="text-rose-600">System Engineer</span>
                     <span class="text-gray-800">that excels at both</span>
                     <span class="text-rose-600">Hardware</span>
                     <span class="text-gray-800">and</span>
