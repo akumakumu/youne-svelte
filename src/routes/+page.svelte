@@ -8,21 +8,21 @@
         <NavBar />
     </header>
 
-    <div class="flex min-w-full py-20 md:py-48 justify-center items-center">
-        <div class="w-2/5">
+    <div class="flex min-w-full py-24 md:py-48 justify-center items-center">
+        <div class="w-3/5">
             <div class="flex justify-center items-center">
-                <p class="text-4xl font-bold text-center">
+                <p class="text-4xl font-bold text-center font-kosugi">
                     <span class="text-gray-800">Hi, I'm</span>
                     <span class="text-rose-600">Youne</span>
                 </p>
             </div>
 
             <div class="flex justify-center items-center my-4">
-                <p class="text-2xl text-center">
+                <p class="text-2xl text-center font-kosugi">
                     <span class="text-gray-800">Stylized as </span> 
                     <span class="text-rose-600">y-ne</span>
                     <span class="text-gray-800">or </span>
-                    <span class="text-rose-600">yね</span>
+                    <span class="text-rose-600 font-mplusr">yね</span>
                     <span class="text-gray-800">. a</span>
                     <span class="text-rose-600">System Engineer</span>
                     <span class="text-gray-800">that excels at both</span>

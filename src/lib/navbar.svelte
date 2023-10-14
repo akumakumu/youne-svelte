@@ -13,6 +13,7 @@
           px-4
           text-lg
           text-gray-800
+          font-kosugi
         ">
       <div>
         <a href="/">

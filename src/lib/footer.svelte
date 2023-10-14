@@ -2,7 +2,7 @@
     import Icon from '@iconify/svelte';
 </script>
 
-<div class="flex justify-center items-center">
+<div class="flex justify-center items-center font-kosugi">
     <p class="font-bold text-1xl text-gray-800">Powered by<p/>
 </div>
 
