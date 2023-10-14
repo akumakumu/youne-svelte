@@ -3,12 +3,12 @@
     import Footer from '$lib/footer.svelte';
 </script>
 
-<div class="container mx-auto h-screen">
+<div class="container mx-auto">
     <header>
         <NavBar />
     </header>
 
-    <div class="flex min-w-full h-3/4 justify-center items-center">
+    <div class="flex min-w-full py-20 md:py-48 justify-center items-center">
         <div class="w-2/5">
             <div class="flex justify-center items-center">
                 <p class="text-4xl font-bold text-center">

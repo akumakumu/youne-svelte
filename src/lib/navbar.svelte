@@ -16,7 +16,7 @@
         ">
       <div>
         <a href="/">
-            <img src="/saint-normal.png" alt="Saint" width="50" height="50">
+            <img src="/saint-normal.png" alt="Saint" width="50" height="50" class="rounded-md">
         </a>
       </div>
 

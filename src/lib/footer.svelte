@@ -3,7 +3,7 @@
 </script>
 
 <div class="flex justify-center items-center">
-    <p class="font-bold text-1xl text-gray-800">Powered By<p/>
+    <p class="font-bold text-1xl text-gray-800">Powered by<p/>
 </div>
 
 <div class="flex justify-center items-center mt-2">
