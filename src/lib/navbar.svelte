@@ -11,8 +11,8 @@
           md:py-0
           md:px-0
           px-4
-          text-lg text-gray-700
-          bg-white
+          text-lg
+          text-gray-800
         ">
       <div>
         <a href="/">
@@ -31,7 +31,7 @@
       <div class="hidden w-full md:flex md:items-center md:w-auto" id="menu">
         <ul class="
               pt-4
-              text-base text-gray-700
+              text-base text-gray-800
               md:flex
               md:justify-between 
               md:pt-0">
@@ -53,7 +53,7 @@
       <div class="w-full md:flex md:items-center md:w-auto" id="menu">
         <ul class="
               pt-4
-              text-base text-gray-700
+              text-base text-gray-800
               md:flex
               md:justify-between 
               md:pt-0">
