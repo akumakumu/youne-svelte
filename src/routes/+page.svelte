@@ -8,8 +8,8 @@
         <NavBar />
     </header>
 
-    <div class="flex min-w-full py-24 md:py-48 justify-center items-center">
-        <div class="w-3/5">
+    <div class="flex min-w-full py-32 md:py-48 justify-center items-center">
+        <div class="w-5/6 md:w-3/5">
             <div class="flex justify-center items-center">
                 <p class="text-4xl font-bold text-center font-kosugi">
                     <span class="text-gray-800">Hi, I'm</span>
