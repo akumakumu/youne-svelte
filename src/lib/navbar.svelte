@@ -36,16 +36,16 @@
               md:justify-between 
               md:pt-0">
           <li>
-            <a class="md:p-4 py-2 block hover:text-sky-400" href="/">Service</a>
+            <a class="md:p-4 py-2 block hover:text-rose-400" href="/">Service</a>
           </li>
           <li>
-            <a class="md:p-4 py-2 block hover:text-sky-400" href="/">Project</a>
+            <a class="md:p-4 py-2 block hover:text-rose-400" href="/">Project</a>
           </li>
           <li>
-            <a class="md:p-4 py-2 block hover:text-sky-400" href="/">About</a>
+            <a class="md:p-4 py-2 block hover:text-rose-400" href="/">About</a>
           </li>
           <li>
-            <a class="md:p-4 py-2 block hover:text-sky-400 text-sky-500" href="/">Contact</a>
+            <a class="md:p-4 py-2 block hover:text-rose-400 text-rose-500" href="/">Contact</a>
           </li>
         </ul>
       </div>
@@ -58,16 +58,16 @@
               md:justify-between 
               md:pt-0">
           <li>
-            <a class="md:p-4 py-2 block hover:text-sky-400" href="/">Service</a>
+            <a class="md:p-4 py-2 block hover:text-rose-400" href="/">Service</a>
           </li>
           <li>
-            <a class="md:p-4 py-2 block hover:text-sky-400" href="/">Project</a>
+            <a class="md:p-4 py-2 block hover:text-rose-400" href="/">Project</a>
           </li>
           <li>
-            <a class="md:p-4 py-2 block hover:text-sky-400" href="/">About</a>
+            <a class="md:p-4 py-2 block hover:text-rose-400" href="/">About</a>
           </li>
           <li>
-            <a class="md:p-4 py-2 block hover:text-sky-400 text-sky-500" href="/">Contact</a>
+            <a class="md:p-4 py-2 block hover:text-rose-400 text-rose-500" href="/">Contact</a>
           </li>
         </ul>
       </div>
