@@ -22,14 +22,10 @@
                     <span class="text-gray-800">Stylized as </span> 
                     <span class="text-rose-600">y-ne</span>
                     <span class="text-gray-800">or </span>
-                    <span class="text-rose-600 font-mplusr">yね</span>
-                    <span class="text-gray-800">. a</span>
-                    <span class="text-rose-600">System Engineer</span>
-                    <span class="text-gray-800">that excels at both</span>
-                    <span class="text-rose-600">Hardware</span>
-                    <span class="text-gray-800">and</span>
-                    <span class="text-rose-600">Software</span>
-                    <span class="text-gray-800">.</span>
+                    <span class="text-rose-600 font-mplusr">Y姉</span>
+                    <span class="text-gray-800">. An individual who goes by the nickname '</span>
+                    <span class="text-rose-600">Technician</span>
+                    <span class="text-gray-800">'</span>
                 </p>
                 
             </div>
