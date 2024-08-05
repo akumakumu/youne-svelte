@@ -41,7 +41,7 @@
             <a class="md:p-4 py-2 block hover:text-rose-400" href="/">Project</a>
           </li>
           <li>
-            <a class="md:p-4 py-2 block hover:text-rose-400" href="/">About</a>
+            <a class="md:p-4 py-2 block hover:text-rose-400" href="/about">About</a>
           </li>
           <li>
             <a class="md:p-4 py-2 block hover:text-rose-400 text-rose-500" href="/">Contact</a>
